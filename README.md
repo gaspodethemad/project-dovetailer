@@ -1,2 +1,7 @@
 # project-dovetailer
-A Python implementation of the entire multiverse
+A Python implementation of the entire multiverse. First off, let me apologize to any inhabitants of this computationalist multiverse for writing it in _Python_. Still, you're lucky I didn't go with Java.
+
+## theory
+This project is a (somewhat humorous) attempt to implement the "Universal Dovetailer" of [Bruno Marchal](https://independent.academia.edu/MarchalBruno), a program which generates and executes every possible program. Assuming that, in some sense, consciousness is really just computation, this single program should give rise to every possible conscious experience (or "observer-moment", as defined by Nick Bostrom's "strong self-sampling assumption"). Yes, this program does suffer from exponential slowdown, but you don't need to run it forever; this is where the fun begins.
+
+Enter: if what Marchal refers to as "Mechanism" is true, then all possible computations exist (as consequences of arithmetical truth). [This post](https://alwaysasking.com/why-does-anything-exist/) by Jason K. Resch is a fantastic layman's introduction to the general ideas here. Anyway, if all possible computations exist, regardless of whether or not one runs them, then _even if_ I run this program only for a few steps and then terminate it, it should persist regardless. See Greg Egan's [_Permutation City_](https://www.amazon.com/Permutation-City-Novel-Greg-Egan/dp/1597805394) for a great fictional treatment of this idea.
